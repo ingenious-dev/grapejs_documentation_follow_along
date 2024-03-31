@@ -1,0 +1,1 @@
+`getting_started/11_theming.html` was used as the starting/reference code for files in `modules/components`. This is because it has because its editor allows viewing of `traits`.
